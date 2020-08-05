@@ -1,16 +1,17 @@
-### Hi there 👋
+##Diogo Lugarini
 
-<!--
-**diogoluga/diogoluga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá 👋
+Sou engenheiro eletricista, mestrando em Fotônica e adoro programar. 
+Grande parte dos meus trabalhos acadêmicos envolveu utilizar a programação para tratamento de dados.
+Atualmente estou aprendendo a respeito de desenvolvimento web.
 
-Here are some ideas to get you started:
+- Já trabalhei como projetista e coordenador de obras na área de engenharia
+elétrica, assim como já atuei como professor para ensino médio e superior;
+- Posso auxiliar quem precisar de ajuda em relações a tratamentos de dados 
+com regressões lineares ou redes neurais, principalmente em Python;
+- Também aceito sugestões a respeito de desenvolvimento web;
+- Quem quiser entrar em contato comigo, pode acessar meu linkedin 
+https://www.linkedin.com/in/diogo-lugarini-87a900130/ ou através do meu e-mail
+diogolugarini@gmail.com.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
